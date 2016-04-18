@@ -1,0 +1,133 @@
+[
+	{
+		"type": "join", 
+		"time": "1", 
+		"name": "Xavi",
+		"team": "Red"
+	},
+	{
+		"type": "join", 
+		"time": "1", 
+		"name": "Dax",
+		"team": "Red"
+	},
+	{
+		"type": "join", 
+		"time": "1", 
+		"name": "Xok",
+		"team": "Red"
+	},
+	{
+		"type": "join", 
+		"time": "1", 
+		"name": "Reik",
+		"team": "Blue"
+	},
+	{
+		"type": "join", 
+		"time": "1", 
+		"name": "Maia",
+		"team": "Blue"
+	},
+	{
+		"type": "join", 
+		"time": "1", 
+		"name": "Lix",
+		"team": "Blue"
+	},
+	{
+		"type": "join", 
+		"time": "9", 
+		"name": "Gix",
+		"team": "Blue"
+	},	
+	{
+		"type": "disconnect", 
+		"time": "8", 
+		"name": "Maia"
+	},
+	{
+		"type": "move", 
+		"time": "2", 
+		"to": "0,20", 
+		"player": "Reik"
+	},
+	{
+		"type": "move", 
+		"time": "3", 
+		"to": "0,20", 
+		"player": "Maia"
+	},
+	{
+		"type": "move", 
+		"time": "3", 
+		"to": "0,30", 
+		"player": "Lix"
+	},
+	{
+		"type": "move", 
+		"time": "3", 
+		"to": "0,30", 
+		"player": "Xavi"
+	},
+	{
+		"type": "move", 
+		"time": "4", 
+		"to": "0,30", 
+		"player": "Dax"
+	},
+	{
+		"type": "move", 
+		"time": "4", 
+		"to": "0,70", 
+		"player": "Xok"
+	},
+	{
+		"type": "shoot", 
+		"time": "4", 
+		"target": "Xavier", 
+		"player": "Lix"
+	},
+	{
+		"type": "move", 
+		"time": "6", 
+		"to": "0,50", 
+		"player": "Reik"
+	},
+	{
+		"type": "shoot", 
+		"time": "7", 
+		"target": "Xavier", 
+		"player": "Reik"
+	},
+	{
+		"type": "shoot", 
+		"time": "7", 
+		"target": "Lix", 
+		"player": "Xavier"
+	},
+	{
+		"type": "move", 
+		"time": "4", 
+		"to": "0,50", 
+		"player": "Xok"
+	},
+	{
+		"type": "shoot", 
+		"time": "7", 
+		"target": "Xavier", 
+		"player": "Reik"
+	},
+	{
+		"type": "shoot", 
+		"time": "8", 
+		"target": "Lix", 
+		"player": "Xavier"
+	},
+	{
+		"type": "shoot", 
+		"time": "8", 
+		"target": "Lix", 
+		"player": "Xok"
+	}
+]

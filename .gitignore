@@ -24,3 +24,6 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+/Room-UI/Library
+/Room-UI/obj/Debug
+/Room-UI/*.htm
